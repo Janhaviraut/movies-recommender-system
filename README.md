@@ -2,7 +2,6 @@
 
 CineMatch is a movie recommendation app built with Python and Streamlit that uses content-based filtering to suggest similar movies.
 
-
 ## 📁 Files
 
 - `app.py`: Main app file
